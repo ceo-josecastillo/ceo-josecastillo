@@ -13,17 +13,32 @@
 
 <br/>
 
-<!-- ═══════════════ REDES ═══════════════ -->
+<div align="center">
 
-<h2 align="center">🌐 Sígueme · Follow me</h2>
+![Visitas al perfil](https://komarev.com/ghpvc/?username=ceo-josecastillo&color=0A66C2&style=flat-square)
+![Seguidores](https://img.shields.io/github/followers/ceo-josecastillo?label=Seguidores&style=flat-square&logo=github&logoColor=white&color=0A66C2)
+![Bilingüe](https://img.shields.io/badge/Biling%C3%BCe-ES%2FEN-7B2FF7?style=flat-square&logo=google-translate&logoColor=white)
+![Developer](https://img.shields.io/badge/Developer-Web-0A66C2?style=flat-square&logo=github&logoColor=white)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ CONTACTO ═══════════════ -->
+
+<h2 align="center">📬 Conecta conmigo · Connect with me</h2>
 
 <div align="center">
 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50764656319)
 [![Sitio Web](https://img.shields.io/badge/Sitio_Web-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ceo-josecastillo.github.io/jose-castillo/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TV-GTE)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josecastilloceo)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50764656319)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/globaltrackexpress)
+
+<br/>
+
+*¿Tienes un proyecto en mente? Escríbeme directo por WhatsApp.*
+*Have a project in mind? Message me directly on WhatsApp.*
 
 </div>
 
@@ -43,6 +58,42 @@
 
 *¿Te gusta mi contenido? Invítame un café y ayuda a que siga creando.*
 *Enjoying my content? Buy me a coffee and help me keep creating.*
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ QR ═══════════════ -->
+
+<h3 align="center">📱 Escanea mi web · Scan my website</h3>
+
+<div align="center">
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&color=0A66C2&data=https://ceo-josecastillo.github.io/jose-castillo/" alt="QR de mi sitio web" />
+
+<br/>
+
+*Escanea para visitar mi sitio · Scan to visit my site*
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<!-- ═══════════════ PROYECTOS ═══════════════ -->
+
+<h2 align="center">🚀 Proyectos destacados · Featured Projects</h2>
+
+<br/>
+
+<div align="center">
+
+| Proyecto · Project | Descripción · Description | Enlaces · Links |
+| :--- | :--- | :---: |
+| 🌐 **jose-castillo** | Mi sitio web personal: diseño premium, bilingüe ES/EN, asistente virtual con IA, agenda de reuniones y sección de donativos. / *My personal website: premium design, bilingual ES/EN, AI virtual assistant, meeting scheduler and donations section.* | [📦 Repo](https://github.com/ceo-josecastillo/jose-castillo) · [🌍 En vivo · Live](https://ceo-josecastillo.github.io/jose-castillo/) |
 
 </div>
 
@@ -164,17 +215,20 @@
 
 <br/>
 
-<!-- ═══════════════ PROYECTOS ═══════════════ -->
+<!-- ═══════════════ LOGROS ═══════════════ -->
 
-<h2 align="center">🚀 Proyectos destacados · Featured Projects</h2>
+<h2 align="center">🏆 Logros · Achievements</h2>
 
 <br/>
 
 <div align="center">
 
-| Proyecto · Project | Descripción · Description | Enlaces · Links |
-| :--- | :--- | :---: |
-| 🌐 **jose-castillo** | Mi sitio web personal: diseño premium, bilingüe ES/EN, asistente virtual con IA, agenda de reuniones y sección de donativos. / *My personal website: premium design, bilingual ES/EN, AI virtual assistant, meeting scheduler and donations section.* | [📦 Repo](https://github.com/ceo-josecastillo/jose-castillo) · [🌍 En vivo · Live](https://ceo-josecastillo.github.io/jose-castillo/) |
+![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=ceo-josecastillo&theme=tokyonight&no-frame=true&margin-w=8&column=6)
+
+<br/>
+
+*Trofeos generados automáticamente con mis datos reales de GitHub.*
+*Trophies generated automatically with my real GitHub data.*
 
 </div>
 
@@ -184,27 +238,15 @@
 
 <br/>
 
-<!-- ═══════════════ CONTACTO ═══════════════ -->
-
-<h2 align="center">📬 Contacto · Contact</h2>
+<!-- ═══════════════ CAFECITO FINAL ═══════════════ -->
 
 <div align="center">
-
-[![Sitio Web](https://img.shields.io/badge/Sitio_Web-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ceo-josecastillo.github.io/jose-castillo/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TV-GTE)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josecastilloceo)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50764656319)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/globaltrackexpress)
-
-<br/>
-
-![Visitas al perfil](https://komarev.com/ghpvc/?username=ceo-josecastillo&color=0A66C2&style=flat-square)
-
-<br/>
 
 *¿Te gusta lo que hago? Apóyame con un cafecito ☕ → [buymeacoffee.com/globaltrackexpress](https://www.buymeacoffee.com/globaltrackexpress)*
 *Like what I do? Support me with a coffee ☕ → [buymeacoffee.com/globaltrackexpress](https://www.buymeacoffee.com/globaltrackexpress)*
 
 </div>
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7B2FF7&height=120&section=footer"/>
